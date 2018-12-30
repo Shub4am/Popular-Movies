@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/menu"
+        app:showAsAction="ifRoom">
+        <menu>
+            <!-- Icon Designed by Smashicons from www.flaticon.com -->
+            <item
+                android:id="@+id/popular"
+                android:title="@string/popular_movies"
+                android:icon="@drawable/trending"
+                android:visible="true"
+                app:showAsAction="never" />
+            <!-- Icon Designed by Freepik from www.flaticon.com -->
+            <item
+                android:id="@+id/topRated"
+                android:title="@string/toprated_movies"
+                android:icon="@drawable/rate"
+
+                android:visible="true"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/favorite"
+                android:title="@string/favorite_movies"
+                android:icon="@drawable/like"
+                android:visible="true"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+
+</menu>

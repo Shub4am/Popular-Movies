@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Popular Movies Project</string>
+    <string name="movie_content_description">movieImage</string>
+    <string name="movie_text_hint">popular image</string>
+    <string name="movie_release_date">release_date</string>
+    <string name="iv_details_content_description">Movie_selected</string>
+    <string name="plotAnalysis">Plot Analysis:</string>
+    <string name="trailers">Movie Trailers:</string>
+    <string name="divider">|</string>
+    <string name="toprated_movies">Highest Rated</string>
+    <string name="popular_movies">Most Popular</string>
+    <string name="favorite_movies">Favorites</string>
+    <string name="no_description_available">No description available</string>
+    <string name="reviews">Reviews:</string>
+    <string name="cast">Cast:</string>
+    <string name="castNotAvailable">Error getting Cast</string>
+    <string name="trailerNotAvailable">Trailers Unavailable</string>
+    <string name="noReviewsFound">No Reviews Found</string>
+    <string name="plotNotAvailable">Plot Synopsis Not Available</string>
+    <string name="Release_Date_Title">Release Date:</string>
+    <string name="Language_Title">Language:</string>
+    <string name="Rating_Title">Rating:</string>
+    <string name="Favorite_Removed">Movie removed from favorites</string>
+    <string name="Favorite_Added">Movie added to favorites</string>
+    <string name="Network_Unavailable">Network Unavailable</string>
+    <string name="Not_Available_Text">Not available</string>
+    <string name="Error">Error! Please try later!</string>
+    <string name="FavoritesNotFound">No favorite Movies Found</string>
+    <string name="menu">Sort By</string>
+</resources>
