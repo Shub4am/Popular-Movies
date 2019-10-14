@@ -1,5 +1,5 @@
 # Popular-Movies
-Part 2 of the NAnodegree Project by Udacity
+Part 2 of the Nanodegree Project by Udacity
 
 ### Project Overview
 Welcome back to Popular Movies! In this second and final stage, I added additional functionality to the app I built in Stage 1.
